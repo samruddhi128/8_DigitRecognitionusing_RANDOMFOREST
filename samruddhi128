@@ -1,0 +1,23 @@
+# 8_DigitRecognitionUsing_RandomForest
+
+## Overview
+This project implements a handwritten digit recognition system using the Random Forest classifier. The model classifies digits (0–9) from image pixel data.
+
+## Workflow
+- Load dataset (MNIST / sklearn digits)
+- Preprocess images (flatten pixel values)
+- Train Random Forest model
+- Evaluate using accuracy and confusion matrix
+- Visualize predictions
+
+## Tech Stack
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
+
+## Applications
+- OCR systems
+- Bank cheque digit recognition
+- Postal code recognition
